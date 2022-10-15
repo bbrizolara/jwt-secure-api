@@ -1,0 +1,10 @@
+# JWT Secure Rest API
+
+Quick example of a rest api secured with JWT authentication.
+
+Routes
+POST: http://localhost:3000/api/v1/auth/
+GET: http://localhost:3000/api/v1/messages/
+GET: http://localhost:3000/api/v1/messages/1
+PUT: http://localhost:3000/api/v1/messages/1
+DELETE: http://localhost:3000/api/v1/messages/1
